@@ -1,4 +1,5 @@
 import { NFTStorage, File } from 'nft.storage'
+require('dotenv').config();
 
 const apiKey = process.env.API_KEY
 const client = new NFTStorage({ token: apiKey })
