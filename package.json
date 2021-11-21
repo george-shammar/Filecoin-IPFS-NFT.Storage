@@ -1,0 +1,19 @@
+{
+  "name": "filecoin-ipfs-nft.storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage/issues"
+  },
+  "homepage": "https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage#readme"
+}
