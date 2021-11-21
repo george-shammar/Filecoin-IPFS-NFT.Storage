@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage/issues"
   },
-  "homepage": "https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage#readme"
+  "homepage": "https://github.com/george-shammar/Filecoin-IPFS-NFT.Storage#readme",
+  "dependencies": {
+    "nft.storage": "^5.0.0"
+  }
 }
