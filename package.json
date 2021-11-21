@@ -1,6 +1,7 @@
 {
   "name": "filecoin-ipfs-nft.storage",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "Storage.js",
   "scripts": {
