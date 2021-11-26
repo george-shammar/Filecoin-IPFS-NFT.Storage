@@ -1,7 +1,7 @@
 import { NFTStorage, File } from 'nft.storage'
 
 
-const apiKey = 
+const apiKey = ""
 const client = new NFTStorage({ token: apiKey })
 
 const metadata = await client.store({
