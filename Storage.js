@@ -9,4 +9,5 @@ const metadata = await client.store({
   description: 'The ancestral bronze head of the Benin Kingdom.',
   image: new File(['./assets/benin.jpg'], 'benin.jpg', { type: 'image/jpg' })
 })
+
 console.log(metadata.url)
